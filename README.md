@@ -1,7 +1,7 @@
 About the *Modern C++ Kafka API*
 =================================
 
-![Lifecycle Active](https://badgen.net/badge/Lifecycle/Active/green)  
+![Lifecycle Active](https://img.shields.io/badge/Lifecycle-Active-brightgreen)  
 
 
 The [modern-cpp-kafka API](http://morganstanley.github.io/modern-cpp-kafka/doxygen/annotated.html) is a layer of ***C++*** wrapper based on [librdkafka](https://github.com/confluentinc/librdkafka) (the ***C*** part only), with high quality, but more friendly to users.
